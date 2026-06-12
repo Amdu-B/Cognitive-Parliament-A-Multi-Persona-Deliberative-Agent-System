@@ -113,7 +113,7 @@ Most LLM agent projects use a **single reasoning chain** — one model thinks, p
 4. **Runtime → Run All**
 ```
 
----
+
 
 ## 💡 Example Queries
 
@@ -187,13 +187,6 @@ This project sits at the intersection of three real research threads:
 
 ---
 
-## 📁 Project Structure
-
-```
-├── cognitive_parliament_agent.ipynb   # Main notebook (run this)
-├── README.md                          # This file
-└── parliament_analytics.png           # Generated after first run
-```
 
 ---
 
