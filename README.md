@@ -111,15 +111,6 @@ Most LLM agent projects use a **single reasoning chain** — one model thinks, p
 2. Go to **🔑 Secrets** (left sidebar) → Add `GROQ_API_KEY`
 3. Get your free key at [console.groq.com](https://console.groq.com)
 4. **Runtime → Run All**
-
-### Option 2 — Local
-
-```bash
-git clone https://github.com/Amdu-B/Cognitive-Parliament-A-Multi-Persona-Deliberative-Agent-System.git
-cd Cognitive-Parliament-A-Multi-Persona-Deliberative-Agent-System
-pip install groq pydantic rich networkx matplotlib pandas
-export GROQ_API_KEY="your-key-here"
-jupyter notebook cognitive_parliament_agent.ipynb
 ```
 
 ---
