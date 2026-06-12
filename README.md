@@ -187,9 +187,6 @@ This project sits at the intersection of three real research threads:
 
 ---
 
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, open an issue first.
